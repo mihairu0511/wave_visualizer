@@ -1,0 +1,6 @@
+For each homework, be sure to include a writeup.txt file that describes
+your submission; the specifics for what needs to go here will vary
+from assignment to assignment, and be detailed in the assignment
+description.
+
+The red button sets all harmonics gain to 0.
